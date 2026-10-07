@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "354578227630",
+    "project_id": "app-fresh-a3eb3",
+    "storage_bucket": "app-fresh-a3eb3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354578227630:android:23ae6d811ed76ce824283f",
+        "android_client_info": {
+          "package_name": "com.example.freshline_tt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfLLuLwVZicbPoptTKOlW1dYg79hC3U9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
